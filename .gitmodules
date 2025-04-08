@@ -1,0 +1,3 @@
+[submodule "vendor/vendor/awesome-module"]
+	path = vendor/vendor/awesome-module
+	url = https://github.com/tiana-coding/awesome-module.git
